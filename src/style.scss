@@ -50,13 +50,13 @@ body {
 
     img:hover {
         transform: scale(1.05);
-        /* Ampliação leve */
+      
         box-shadow: 0 0 30px 15px rgba(0, 0, 0, 0.8),
-            /* Sombra escura ao redor */
+           
             0 0 15px 5px rgba(169, 169, 169, 0.7);
-        /* Brilho metálico prateado */
+       
         filter: brightness(0.9) saturate(1.2);
-        /* Reduz um pouco o brilho e aumenta a intensidade das cores */
+       
     }
 }
 
@@ -80,32 +80,8 @@ body {
     }
 
     button {
-        //  background-color: white;
-        //  color: #203574;
-        //  border: none;
-        //  border-radius: 10px;
-        //  padding: 10px 20px;
-        //  font-size: 16px;
-        // cursor: pointer;
-
-
-        // bottom: 20px;
-        // left: 50%;
-        // background: linear-gradient(45deg, #222, #555);
-        // /* Fundo metálico escuro */
-        // color: #fff;
-        // border: 2px solid rgba(255, 255, 255, 0.5);
-        // /* Borda suave */
-        // border-radius: 5px;
-        // padding: 10px 20px;
-        // font-size: 1rem;
-        // font-family: 'Cinzel', serif;
-        // /* Fontes medievais ou elegantes */
-        // cursor: pointer;
-
+      
         bottom: 20px;
-       
-        
         background: linear-gradient(45deg, #2c2c2c, #1a1a1a); 
         color: #d4af37; 
         border: 2px solid #6b4e1e; 
